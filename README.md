@@ -17,10 +17,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/jyothimanoj12"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jyothimanoj12&stroke=3382ed&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=3382ed&currStreakLabel=84cc16&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="http://www.github.com/jyothimanoj12"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jyothimanoj12&bg_color=1c1917&color=3382ed&line=facc15&point=3382ed&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/jyothimanoj12" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyothimanoj12&langs_count=10&title_color=84cc16&text_color=3382ed&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
  ## Support Me
 
 <ul style="list-style-type: none; margin: 0;">
