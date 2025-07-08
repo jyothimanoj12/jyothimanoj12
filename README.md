@@ -22,10 +22,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
- ## Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/jyothikamanoj17"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-</ul> 
 
 
